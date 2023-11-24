@@ -1,3 +1,4 @@
+// This is the main component of the webpage. All calls are handled here.
 import './App.css';
 import gptlogo from './assets/chatgpt.svg'
 import addBtn from './assets/add-30.png'
